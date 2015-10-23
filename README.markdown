@@ -1,5 +1,6 @@
 IATI Datastore
-==============
+================
+
 
 [![Build Status](https://travis-ci.org/IATI/iati-datastore.svg?branch=master)](https://travis-ci.org/IATI/iati-datastore)
 [![Coverage Status](https://img.shields.io/coveralls/IATI/iati-datastore.svg)](https://coveralls.io/r/IATI/iati-datastore?branch=master)
